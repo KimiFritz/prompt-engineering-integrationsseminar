@@ -10,6 +10,6 @@ Dieses Repository dokumentiert ein Prompt Engineering Projekt zur Entwicklung ei
 
 - **[GPT](./gpt)** - Beispiel-Prompt und System-Prompt für ChatGPT
 
-- **[Artifact](./artefact)** - Beispiel-Prompt und System-Prompt sowie entwickeltes Claude-Artefakt
+- **[Artifact](./artefakt)** - Beispiel-Prompt und System-Prompt sowie entwickeltes Claude-Artefakt
 
-- - **[Präsentation](Präsentation.pdf)** - Präsentation der Ergebnisse
+- **[Präsentation](Präsentation.pdf)** - Präsentation der Ergebnisse
