@@ -6,7 +6,7 @@ Dieses Repository dokumentiert ein Prompt Engineering Projekt zur Entwicklung ei
 
 - **[Abbildungen](./abbildungen)** - Grafiken und Visualisierungen
 
-- **[Wissen](./wissen)** - Deep Research-Prompts und Ergebnisse einer Studie mit 6 Sprachmodellen
+- **[Wissen](./wissen)** - Deep Research-Prompts und Ergebnisse der Deep-Research mit 6 LLMs
 
 - **[GPT](./gpt)** - Beispiel-Prompt und System-Prompt für ChatGPT
 
